@@ -27,7 +27,7 @@ img {
 }
 
 .intro > h1 {
-    color: white;
+    color: #2e475a;
     font-size: 10vh;
 }
 
@@ -102,13 +102,18 @@ a:hover {
 
 .navbar.navbar-default {
     border-top: var(--border-width) solid var(--accent);
-    background-color: #e8cecb;
+    background-color:#fa9677b5;
     border-color: var(--accent);
+    color: #2e475a;
 
 }
 
-.a {
-    color: #1f1d1f;
+.navbar.navbar-default .navbar-nav>li>a {
+    color: #2e475a;
+}
+
+a:link, a:visited {
+    color: #f8491f;
 }
 
 footer {
