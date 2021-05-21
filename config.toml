@@ -60,6 +60,6 @@ googleAnalytics = ""
     weight = 3
 
 [[menu.icon]]
-    url = "https://www.instagram.com/sumruddy/"
+    url = "https://www.instagram.com/sum_ruddy/"
     name = "fab fa-instagram"
     weight = 4
