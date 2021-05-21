@@ -1,0 +1,65 @@
+baseURL = "https://samruddhi17.github.io/home/"
+languageCode = "en-us"
+title = "Samruddhi Naik"
+theme = "minimal"
+disqusShortname = "username" # delete this to disable disqus comments
+googleAnalytics = ""
+
+[params]
+    author = "Samruddhi Naik"
+    description = "Loves good [vibes](/), wild waves, [warm](/) sun, kind words, [freedom](/) to be herself... flow, hustle, [dreams](/)... and [food](/)."
+    copyright = " "
+    githubUsername = "Samruddhi17"
+    accent = "#f47f6e"
+    showBorder = true
+    backgroundColor = "#2e475a"
+    font = "Raleway" # should match the name on Google Fonts!
+    highlight = true
+    highlightStyle = "default"
+    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
+    profilePic = "images/sam.png"
+
+[[menu.main]]
+    url = "/"
+    name = "Home"
+    weight = 1
+
+[[menu.main]]
+    url = "/about/"
+    name = "About"
+    weight = 2
+
+[[menu.main]]
+    url = "/post/"
+    name = "Wiki"
+    weight = 3
+
+[[menu.main]]
+    url = "https://samruddhi17.github.io/"
+    name = "CV"
+    weight = 4
+
+# Social icons to be shown on the right-hand side of the navigation bar.
+# The "name" field should match the name of the icon in Font Awesome.
+# The list of available icons can be found at http://fontawesome.io/icons.
+
+[[menu.icon]]
+    url = "mailto:samruddhi.naik17@gmail.com"
+    name = "fas fa-envelope"
+    weight = 1
+
+[[menu.icon]]
+    url = "https://github.com/Samruddhi17/"
+    name = "fab fa-github"
+    weight = 2
+
+
+[[menu.icon]]
+    url = "https://www.linkedin.com/in/samruddhinaik/"
+    name = "fab fa-linkedin"
+    weight = 3
+
+[[menu.icon]]
+    url = "https://www.instagram.com/sumruddy/"
+    name = "fab fa-instagram"
+    weight = 4
