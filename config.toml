@@ -30,7 +30,7 @@ googleAnalytics = ""
     weight = 2
 
 [[menu.main]]
-    url = "/post/"
+    url = "https://samruddhi-naik17.gitbook.io/samruddhi-wiki/"
     name = "Wiki"
     weight = 3
 
